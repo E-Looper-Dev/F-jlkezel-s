@@ -1,0 +1,7 @@
+C:\Users\csill\source\repos\Fajlkezeles\Fajlkezeles\bin\Debug\Fajlkezeles.exe.config
+C:\Users\csill\source\repos\Fajlkezeles\Fajlkezeles\bin\Debug\Fajlkezeles.exe
+C:\Users\csill\source\repos\Fajlkezeles\Fajlkezeles\bin\Debug\Fajlkezeles.pdb
+C:\Users\csill\source\repos\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.csproj.AssemblyReference.cache
+C:\Users\csill\source\repos\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.csproj.CoreCompileInputs.cache
+C:\Users\csill\source\repos\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.exe
+C:\Users\csill\source\repos\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.pdb
